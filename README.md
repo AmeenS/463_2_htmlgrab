@@ -1,2 +1,4 @@
-# 463_2_htmlgrab
-Program to save chosen online weather source pages. To be run as cron job
+# 463_2_weather
+
+Programs written to scrape data from online weather sources and analyze accuaracy of forecasts at discrete
+intervals.
